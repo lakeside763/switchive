@@ -18,6 +18,7 @@ yarn test - to process unit testing and integration testing
 The app API was organised into two modules for easy maintainability
 
 #### Products
+- http://localhost:3000/products - POST
 - http://localhost:3000/products - GET
 - http://localhost:4500/products/:id - GET
 - http://localhost:4500/products/:id - PUT
@@ -29,7 +30,7 @@ The app API was organised into two modules for easy maintainability
 - Writing of Test cases
 - Schema Validation
 - Using of logger
-- Error handling middlewares
+- Error handling
 
 #### Thing I would have love to add
 - Write more test cases
