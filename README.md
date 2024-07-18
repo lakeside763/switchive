@@ -3,7 +3,7 @@
 ## Backend Tasks
 - By Moses Idowu
 ### Getting Started
-- Setup .env and env.test environment variable using env.sample.
+- Setup .env environment variable using env.sample.
 
 - To run the application locally
 
@@ -31,6 +31,7 @@ The app API was organised into two modules for easy maintainability
 - Schema Validation
 - Using of logger
 - Error handling
+- Use postgres for the DB
 
 #### Thing I would have love to add
 - Write more test cases
